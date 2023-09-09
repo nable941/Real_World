@@ -37,7 +37,7 @@
 <h3 align="center">Real World Projects</h3>
 
   <p align="center">
-    This repo is based on the book <a href=”https://nostarch.com/real-world-python”>Real World Python by Lee Vaughn</a>. The book contains code to teach, and therefore this repo has some of that code. However, the book also contains challenges that the author does not provide code for. For that reason, the code is also uniquely mine and a demonstration of my skills and what I have learned.<br>The original code from the books author can be viewed at: <a href=”https://github.com/rlvaugh/Real_World_Python”>Real World Python Github Page</a><br>
+    This repo is based on the book <a href="https://nostarch.com/real-world-python">Real World Python by Lee Vaughn</a>. The book contains code to teach, and therefore this repo has some of that code. However, the book also contains challenges that the author does not provide code for. For that reason, the code is also uniquely mine and a demonstration of my skills and what I have learned.<br>The original code from the books author can be viewed at: <a href="https://github.com/rlvaugh/Real_World_Python">Real World Python Github Page</a><br>
     <br />
     <!--
     <a href="https://github.com/nable941/Real_World"><strong>Explore the docs »</strong></a>
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@viper941](https://twitter.com/viper941) - nable941@gmail.com
+Nathan Able - nable941@gmail.com
 
 Project Link: [https://github.com/nable941/Real_World](https://github.com/nable941/Real_World)
 
